@@ -1,0 +1,1 @@
+import"./HighlightDefaults-s5TdSRDb.js";function e(e){return e?.name??`default`}export{e as t};

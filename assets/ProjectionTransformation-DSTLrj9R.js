@@ -1,0 +1,1 @@
+import"./Point2D-BiY2ltRR.js";export{Et as queryTransformationList}from"./SpatialReference-IBepK8wS.js";

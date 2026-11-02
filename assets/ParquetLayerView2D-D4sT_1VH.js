@@ -1,0 +1,1 @@
+import{r as e}from"./tslib.es6-qUHyP9zl.js";import{n as t}from"./decorators-Bf5cRcIF.js";import{t as n}from"./FeatureLikeLayerView2D-D0B-NeTm.js";import{t as r}from"./FeatureLikeLayerView-tylDBc_T.js";var i=class extends r{constructor(){super(...arguments),this.layer=null}},a=class extends n(i){};a=e([t(`esri.views.2d.layers.ParquetLayerView2D`)],a);var o=a;export{o as default};

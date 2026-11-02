@@ -1,0 +1,1 @@
+import{D as e}from"./oitResolution.glsl-CqVd27g0.js";var t=class extends e{constructor(e,t){super(e,`bool`,1,(n,r,i)=>n.setUniform1b(e,t(r,i)))}};export{t};

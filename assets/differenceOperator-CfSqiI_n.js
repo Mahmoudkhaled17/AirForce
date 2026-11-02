@@ -1,0 +1,1 @@
+export{r as execute,i as executeMany,t as supportsCurves}from"./differenceOperator-D585ScCO.js";import"./apiConverter-tnTjKeRL.js";

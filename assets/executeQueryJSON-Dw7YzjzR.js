@@ -1,0 +1,1 @@
+import{n as e}from"./utils-i2PCac4I.js";import{a as t}from"./query-CLFlyZmT.js";import{kn as n}from"./ArcGISMap-B4HkmYgb.js";import{t as r}from"./Query-DVQ22SUR.js";async function i(e,t,r,i){let o=await a(e,t,r,i);return n.fromJSON(o)}function a(n,i,a,o){let s=e(n),c={...a},l=r.from(i);return t(s,l,l.sourceSpatialReference,c,o)}export{i as n,a as t};

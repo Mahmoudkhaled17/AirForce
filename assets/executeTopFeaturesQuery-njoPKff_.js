@@ -1,0 +1,1 @@
+import{n as e}from"./utils-i2PCac4I.js";import{i as t}from"./queryTopFeatures-CcKOiP04.js";import{kn as n}from"./ArcGISMap-B4HkmYgb.js";import r from"./TopFeaturesQuery-DAtwVmUm.js";async function i(i,a,o,s){let c=e(i),l={...s},{data:u}=await t(c,r.from(a),o,l);return n.fromJSON(u)}export{i as executeTopFeaturesQuery};

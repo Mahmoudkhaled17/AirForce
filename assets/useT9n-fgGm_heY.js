@@ -1,0 +1,1 @@
+import{r as e}from"./controllers-CXocWu5T.js";import{a as t}from"./runtime-Bs--kVDa.js";var n=e(t);export{n as t};

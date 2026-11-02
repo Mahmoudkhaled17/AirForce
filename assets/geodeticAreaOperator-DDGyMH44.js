@@ -1,0 +1,1 @@
+import"./units-BJeBURZh.js";export{r as execute,t as isLoaded,i as load,a as supportsCurves}from"./geodeticAreaOperator-pKuriF4N.js";
