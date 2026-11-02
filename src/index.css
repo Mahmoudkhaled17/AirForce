@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
+@import '@arcgis/core/assets/esri/themes/dark/main.css';
+
+:root { font-family: 'Cairo', sans-serif; color: #e5ece8; background: #0a1112; font-synthesis: none; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; }
+* { box-sizing: border-box; }
+html, body, #root { width: 100%; min-width: 360px; min-height: 100%; margin: 0; }
+body { min-height: 100vh; }
+button, input, select { font: inherit; }
+button { color: inherit; }
+::selection { background: #237957; color: white; }
